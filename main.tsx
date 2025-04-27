@@ -15,7 +15,7 @@ blog({
 		// seharusnya emailnya email work/domain
 		{ title: "Email", url: "mailto:rickyraihan83@gmail.com" },
 		{ title: "GitHub", url: "https://github.com/rickyraz" },
-		{ title: "Twitter", url: "https://x.com/ricky_ra_" },
+		{ title: "Twitter", url: "https://x.com/rickyraz_" },
 	],
 	middlewares: [
 		// If you want to set up Google Analytics, paste your GA key here.
