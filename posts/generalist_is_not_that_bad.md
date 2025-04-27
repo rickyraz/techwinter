@@ -32,12 +32,21 @@ Being genralist, knew what yourself is and update to the world - that the point 
 10.**Jadilah diri sendiri** - Kesimpulan utama keduanya adalah pentingnya mengenali, menerima, dan menjadi diri sendiri yang autentik. -->
 
 1.**The importance of embracing diverse interests** - Charles was initially advised to focus on just one thing, but eventually realized that having various interests was a core part of his identity.
+
 2.**Challenging stereotypes** - Neil had to overcome expectations and stereotypes as a Black man in American science.
+
 3.**Limitations of academic assessment** - The education system tends to evaluate students solely on grades, rather than their potential or extracurricular activities.
+
 4.**The power of support** - Charles emphasized the importance of support from family, friends, and mentors in his success.
+
 5.**Turning obstacles into motivation** - Neil's father advised him to use others' prejudices as fuel to achieve excellence.
+
 6.**Defining yourself** - Both speakers emphasized the importance of knowing who you are and rejecting others' definitions of you.
+
 7.**Minority representation in science** - Neil noted that when he earned his PhD, there were only 7-9 Black people with PhDs in astrophysics.
+
 8.**Skills viewed negatively can become strengths** - Neil's sociable nature, considered problematic by teachers, became a valuable asset in his career.
+
 9.**Every successful person has faced doubt** - Neil stated that all successful people have a list of people who said they wouldn't succeed.
+
 10.**Be authentic** - Their main conclusion was the importance of recognizing, accepting, and being your authentic self.
